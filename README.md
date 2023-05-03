@@ -1,2 +1,2 @@
-# data-collection-challenge
+# Data-Collection-Challenge
 Module 11 Challenge
